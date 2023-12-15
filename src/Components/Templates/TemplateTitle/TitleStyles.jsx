@@ -13,4 +13,8 @@ export const TemplateTitle = styled.h2`
   text-align: center;
   width: fit-content;
   margin: auto;
+
+  @media (max-width: 1024px) {
+    font-size: 2rem;
+  }
 `;
