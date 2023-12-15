@@ -1,4 +1,5 @@
 import { ShowcaseComponent } from "./ShowcaseStyles";
+import ScrollButton from "../ScrollButton/ScrollButton";
 
 const Showcase = ({ id }) => {
   return (
@@ -10,6 +11,7 @@ const Showcase = ({ id }) => {
         </h1>
         <p>A Professional Web Developer</p>
       </ShowcaseComponent>
+      <ScrollButton />
     </>
   );
 };
