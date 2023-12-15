@@ -6,8 +6,8 @@ export const AboutComponent = styled.div`
   margin-top: 50px;
 
   img {
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     border-radius: 50%;
     margin-right: 50px;
     margin-left: 50px;
@@ -15,12 +15,9 @@ export const AboutComponent = styled.div`
 
   div {
     padding: 40px;
-  }
-
-  div > button {
-    position: relative;
-    top: 50px;
-    left: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   p {
@@ -34,17 +31,21 @@ export const AboutComponent = styled.div`
     flex-direction: column;
 
     img {
-      width: 200px;
-      height: 200px;
+      width: 400px;
+      height: 400px;
       margin-right: 0;
     }
 
     p {
       font-size: 0.875rem;
-
       margin-top: 15px;
     }
   }
+`;
+
+export const InfoWrapper = styled.div`
+  display: flex;
+  align-items: center;
 `;
 
 export const Button = styled.button`
@@ -55,6 +56,7 @@ export const Button = styled.button`
   color: white;
   text-transform: uppercase;
   font-weight: 600;
+  margin-top: 40px;
 
   &:hover {
     cursor: pointer;

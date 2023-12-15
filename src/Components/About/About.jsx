@@ -1,4 +1,4 @@
-import { AboutComponent, Button } from "./AboutStyles";
+import { AboutComponent, Button, InfoWrapper } from "./AboutStyles";
 import { handleDownload } from "../Download";
 import Title from "../Templates/TemplateTitle/TemplateTitle";
 import Container from "../Templates/TemplateContainer/TemplateContainer";
@@ -11,7 +11,7 @@ const About = () => {
         <Content>
           <Title id="about">Sobre mim</Title>
           <AboutComponent>
-            <div>
+            <InfoWrapper>
               <img
                 src="../images/github-profile-pic & professional-email-profile-pic.png"
                 alt="Matheus de Souza Carvalho"
@@ -19,7 +19,7 @@ const About = () => {
               <Button onClick={handleDownload}>
                 Download Curriculum Vitae
               </Button>
-            </div>
+            </InfoWrapper>
             <div>
               <p>
                 Desenvolvedor com 2 anos de experiência com conhecimento na
