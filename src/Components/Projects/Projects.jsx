@@ -100,8 +100,8 @@ const Projects = ({ id }) => {
             <ProjectWrapper>
               <Project
                 image="../images/project-5.png"
-                title="Projeto 5"
-                description="Projeto simples de um todo list utilizando redux para criar global state na aplicação."
+                title="To Do List"
+                description="Projeto simples de um 'to do list' utilizando redux para criar global state na aplicação."
               />
               <ProjectButton
                 title="Acesse"
@@ -118,12 +118,8 @@ const Projects = ({ id }) => {
             <ProjectWrapper>
               <Project
                 image="../images/project-6.png"
-                title="Projeto 6"
-                description="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit quas illo
-                nemo perferendis, exercitationem qui illum quisquam facere quam, nostrum
-                magnam atque, id laudantium voluptatum quis cumque? Dolorem natus quaerat
-                corporis est quae doloribus aperiam? Repellendus nam reiciendis mollitia
-                veniam?"
+                title="Projeto Steam Minimalista"
+                description="🎮 Criação de uma aplicação web utilizando React.js e Next.js da Steam que é uma um software de gestão de direitos digitais, plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos."
               />
               <ProjectButton
                 title="Acesse"
@@ -134,7 +130,7 @@ const Projects = ({ id }) => {
               <ProjectButton
                 title="GitHub"
                 target="_blank"
-                href="#"
+                href="https://github.com/matheusscarvalho1/minimalist-steam-react.js-next.js"
                 rel="noreferrer"
               />
             </ProjectWrapper>

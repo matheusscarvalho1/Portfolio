@@ -48,7 +48,7 @@ const Skills = ({ id }) => {
             />
             <Skill
               image="../images/REACT_ICON.png"
-              title="React Context API"
+              title="React - Context API"
               description="A Context API do React é uma ferramenta poderosa para gerenciamento de estado em aplicações React. Com habilidades na Context API, posso criar aplicações mais organizadas e escaláveis, compartilhando dados entre componentes de maneira eficiente."
             />
             <Skill
