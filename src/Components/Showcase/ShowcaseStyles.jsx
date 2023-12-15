@@ -7,7 +7,6 @@ export const ShowcaseComponent = styled.div`
   align-items: center;
   justify-content: center;
   color: white;
-  width: fit-content;
 
   background-image: url("../images/developer.png");
   background-size: cover;
