@@ -25,7 +25,7 @@ export const ProjectItem = styled.div`
 `;
 
 export const ProjectText = styled.text`
-  max-width: 600px;
+  max-width: 900px;
   &:nth-child(even) {
     order: 1;
   }

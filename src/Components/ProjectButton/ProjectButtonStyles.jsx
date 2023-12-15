@@ -10,6 +10,7 @@ export const ProjectBtn = styled.button`
   font-weight: 600;
   margin-left: 10px;
   margin-top: 50px;
+  width: 150px;
 
   a {
     text-decoration: none;
