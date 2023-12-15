@@ -20,4 +20,6 @@ export const ProjectBtn = styled.button`
     cursor: pointer;
     background-color: #202020;
   }
+  @media (max-width: 1024px) {
+  }
 `;

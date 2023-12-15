@@ -1,4 +1,8 @@
-import { ProjectsContent, ProjectWrapper } from "./ProjectsStyles";
+import {
+  ProjectsContent,
+  ProjectWrapper,
+  ButtonWrapper,
+} from "./ProjectsStyles";
 
 import Title from "../Templates/TemplateTitle/TemplateTitle";
 import Project from "../Project/Project";
@@ -23,18 +27,20 @@ const Projects = ({ id }) => {
                 história da barbearia, localização e formulário para agendamento
                 de horário."
               />
-              <ProjectButton
-                title="Acesse"
-                target="_blank"
-                href="https://projeto-barber-shop-xi.vercel.app"
-                rel="noreferrer"
-              />
-              <ProjectButton
-                title="GitHub"
-                target="_blank"
-                href="https://github.com/matheusscarvalho1/Projeto-Barber-Shop"
-                rel="noreferrer"
-              />
+              <ButtonWrapper>
+                <ProjectButton
+                  title="Acesse"
+                  target="_blank"
+                  href="https://projeto-barber-shop-xi.vercel.app"
+                  rel="noreferrer"
+                />
+                <ProjectButton
+                  title="GitHub"
+                  target="_blank"
+                  href="https://github.com/matheusscarvalho1/Projeto-Barber-Shop"
+                  rel="noreferrer"
+                />
+              </ButtonWrapper>
             </ProjectWrapper>
 
             <ProjectWrapper>
@@ -43,18 +49,20 @@ const Projects = ({ id }) => {
                 title="Projeto Site Portfólio"
                 description="Projeto criado para servir de portfólio mostrando minha história, minhas Hard Skills como programador, minhas Soft Skills como colega de trabalho, minhas experiência como desenvolvedor utilizando as habilidades citadas no projeto e contato caso queiras entrar em contato comigo. (Parte responsiva está com ajustes);"
               />
-              <ProjectButton
-                title="Acesse"
-                target="_blank"
-                href="https://portfolio-matheusscarvalho.vercel.app"
-                rel="noreferrer"
-              />
-              <ProjectButton
-                title="GitHub"
-                target="_blank"
-                href="https://github.com/matheusscarvalho1/portfolio"
-                rel="noreferrer"
-              />
+              <ButtonWrapper>
+                <ProjectButton
+                  title="Acesse"
+                  target="_blank"
+                  href="https://portfolio-matheusscarvalho.vercel.app"
+                  rel="noreferrer"
+                />
+                <ProjectButton
+                  title="GitHub"
+                  target="_blank"
+                  href="https://github.com/matheusscarvalho1/portfolio"
+                  rel="noreferrer"
+                />
+              </ButtonWrapper>
             </ProjectWrapper>
             <ProjectWrapper>
               <Project
@@ -62,18 +70,20 @@ const Projects = ({ id }) => {
                 title="Projeto Steam Minimalista"
                 description="🎮 Criação de uma aplicação web utilizando React.js e Next.js da Steam que é uma um software de gestão de direitos digitais, plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos."
               />
-              <ProjectButton
-                title="Acesse"
-                target="_blank"
-                href="#"
-                rel="noreferrer"
-              />
-              <ProjectButton
-                title="GitHub"
-                target="_blank"
-                href="https://github.com/matheusscarvalho1/minimalist-steam-react.js-next.js"
-                rel="noreferrer"
-              />
+              <ButtonWrapper>
+                <ProjectButton
+                  title="Acesse"
+                  target="_blank"
+                  href="#"
+                  rel="noreferrer"
+                />
+                <ProjectButton
+                  title="GitHub"
+                  target="_blank"
+                  href="https://github.com/matheusscarvalho1/minimalist-steam-react.js-next.js"
+                  rel="noreferrer"
+                />
+              </ButtonWrapper>
             </ProjectWrapper>
 
             <ProjectWrapper>
@@ -82,18 +92,20 @@ const Projects = ({ id }) => {
                 title="Projeto simulador de CRUD"
                 description="Projeto desenvolvido com React.JS, estilizado com Material UI e com navegação utilizando React Router, o projeto simula uma CRUD, então é possível criar, listar, editar e apagar dados de clientes, clientes esses que já estão 'cadastrados' préviamente através de uma API com informações como foto, nome e email."
               />
-              <ProjectButton
-                title="Acesse"
-                target="_blank"
-                href="https://project-react-router-material-ui.vercel.app"
-                rel="noreferrer"
-              />
-              <ProjectButton
-                title="GitHub"
-                target="_blank"
-                href="https://github.com/matheusscarvalho1/Project-ReactRouter-MaterialUI-ContextAPI"
-                rel="noreferrer"
-              />
+              <ButtonWrapper>
+                <ProjectButton
+                  title="Acesse"
+                  target="_blank"
+                  href="https://project-react-router-material-ui.vercel.app"
+                  rel="noreferrer"
+                />
+                <ProjectButton
+                  title="GitHub"
+                  target="_blank"
+                  href="https://github.com/matheusscarvalho1/Project-ReactRouter-MaterialUI-ContextAPI"
+                  rel="noreferrer"
+                />
+              </ButtonWrapper>
             </ProjectWrapper>
             <ProjectWrapper>
               <Project
@@ -101,18 +113,20 @@ const Projects = ({ id }) => {
                 title="Projeto site corporativo"
                 description="📱 Página Web responsiva pensando também nos usuários mobile, aplicação desenvolvida utilizando TailwindCSS desenvolvida com Vite + React (Parte responsiva está com ajustes);"
               />
-              <ProjectButton
-                title="Acesse"
-                target="_blank"
-                href="https://design-responsivo-tailwind.vercel.app"
-                rel="noreferrer"
-              />
-              <ProjectButton
-                title="GitHub"
-                target="_blank"
-                href="https://github.com/matheusscarvalho1/Design-Responsivo-Tailwind"
-                rel="noreferrer"
-              />
+              <ButtonWrapper>
+                <ProjectButton
+                  title="Acesse"
+                  target="_blank"
+                  href="https://design-responsivo-tailwind.vercel.app"
+                  rel="noreferrer"
+                />
+                <ProjectButton
+                  title="GitHub"
+                  target="_blank"
+                  href="https://github.com/matheusscarvalho1/Design-Responsivo-Tailwind"
+                  rel="noreferrer"
+                />
+              </ButtonWrapper>
             </ProjectWrapper>
 
             <ProjectWrapper>
@@ -121,17 +135,19 @@ const Projects = ({ id }) => {
                 title="To Do List"
                 description="Projeto simples de um 'to do list' utilizando redux para criar global state na aplicação."
               />
-              <ProjectButton
-                title="Acesse"
-                target="_blank"
-                href="https://todo-list-redux-peach.vercel.app"
-              />
-              <ProjectButton
-                title="GitHub"
-                target="_blank"
-                href="https://github.com/matheusscarvalho1/todo-list-redux"
-                rel="noreferrer"
-              />
+              <ButtonWrapper>
+                <ProjectButton
+                  title="Acesse"
+                  target="_blank"
+                  href="https://todo-list-redux-peach.vercel.app"
+                />
+                <ProjectButton
+                  title="GitHub"
+                  target="_blank"
+                  href="https://github.com/matheusscarvalho1/todo-list-redux"
+                  rel="noreferrer"
+                />
+              </ButtonWrapper>
             </ProjectWrapper>
           </ProjectsContent>
         </Content>

@@ -17,3 +17,10 @@ export const ProjectWrapper = styled.div`
     flex-direction: column;
   }
 `;
+
+export const ButtonWrapper = styled.div`
+  display: flex;
+  gap: 20px;
+  margin-top: -50px;
+  margin-bottom: 100px;
+`;

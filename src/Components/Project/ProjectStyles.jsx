@@ -17,18 +17,11 @@ export const ProjectItem = styled.div`
     opacity: 75%;
     line-height: 29px;
   }
-
-  &:nth-child(even) {
-    justify-content: flex-end;
-    text-align: right;
-  }
 `;
 
 export const ProjectText = styled.text`
   max-width: 900px;
-  &:nth-child(even) {
-    order: 1;
-  }
+
   @media (max-width: 1024px) {
     margin-left: 0;
     max-width: 100%;
