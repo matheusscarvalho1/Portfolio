@@ -140,6 +140,7 @@ const Projects = ({ id }) => {
                   title="Acesse"
                   target="_blank"
                   href="https://todo-list-redux-peach.vercel.app"
+                  rel="noreferrer"
                 />
                 <ProjectButton
                   title="GitHub"
