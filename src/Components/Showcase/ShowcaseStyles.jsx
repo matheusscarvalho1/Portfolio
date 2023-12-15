@@ -37,9 +37,9 @@ export const ShowcaseComponent = styled.div`
     h1 {
       font-size: 3rem;
       text-align: center;
-      line-height: 3.3rem;
     }
     p {
+      line-height: 3.3rem;
       font-size: 0.875rem;
       text-align: center;
       margin-top: 15px;

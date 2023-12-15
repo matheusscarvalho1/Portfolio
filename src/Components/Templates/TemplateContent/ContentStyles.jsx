@@ -6,4 +6,8 @@ export const TemplateContent = styled.div`
   margin-right: auto;
   padding-top: 120px;
   padding-bottom: 120px;
+
+  @media (max-width: 1024px) {
+    padding: 0;
+  }
 `;

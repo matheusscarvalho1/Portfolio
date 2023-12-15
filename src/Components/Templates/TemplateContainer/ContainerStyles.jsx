@@ -6,6 +6,5 @@ export const TemplateContainer = styled.div`
 
   @media (max-width: 1024px) {
     padding: 30px;
-    width: 100%;
   }
 `;
