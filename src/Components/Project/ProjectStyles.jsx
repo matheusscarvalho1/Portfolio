@@ -31,10 +31,6 @@ export const ProjectText = styled.text`
     max-width: 100%;
     text-align: center;
     margin-top: 20px;
-
-    &:first-child {
-      color: red;
-    }
   }
 
   h3 {

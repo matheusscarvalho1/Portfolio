@@ -22,9 +22,4 @@ export const ScrollToTopButton = styled.button`
   &:hover {
     background-color: #202020;
   }
-  @media (max-width: 1024px) {
-    position: fixed;
-    right: 40px;
-    bottom: 75px;
-  }
 `;
