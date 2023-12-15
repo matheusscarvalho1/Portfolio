@@ -44,5 +44,6 @@ export const SubmitButton = styled.input`
 
   &:hover {
     cursor: pointer;
+    background-color: #202020;
   }
 `;
