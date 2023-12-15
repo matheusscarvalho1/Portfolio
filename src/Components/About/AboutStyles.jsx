@@ -31,8 +31,9 @@ export const AboutComponent = styled.div`
     flex-direction: column;
 
     img {
-      width: 300px;
-      height: 300px;
+      width: 200px;
+      height: 200px;
+      margin-right: 50px;
     }
 
     p {
