@@ -9,5 +9,6 @@ export const TemplateContent = styled.div`
 
   @media (max-width: 1024px) {
     padding: 0;
+    width: 100%;
   }
 `;
