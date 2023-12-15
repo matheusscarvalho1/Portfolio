@@ -25,18 +25,21 @@ const Contact = ({ id }) => {
               name="fullName"
               id="fullName"
               placeholder="Seu nome"
+              required
             />
             <FormInput
               type="email"
               name="email"
               id="email"
               placeholder="Seu e-mail"
+              required
             />
             <TextArea
               name="message"
               id="message"
               rows="5"
               placeholder="Sua mensagem"
+              required
             />
 
             <SubmitButton type="submit" value="Enviar" />
