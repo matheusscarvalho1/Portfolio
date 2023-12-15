@@ -31,8 +31,8 @@ export const AboutComponent = styled.div`
     flex-direction: column;
 
     img {
-      width: 400px;
-      height: 400px;
+      width: 200px;
+      height: 200px;
       margin-right: 0;
     }
 
@@ -61,11 +61,5 @@ export const Button = styled.button`
   &:hover {
     cursor: pointer;
     background-color: #202020;
-  }
-
-  @media (max-width: 1024px) {
-    position: relative;
-    top: 0;
-    left: 20px;
   }
 `;
