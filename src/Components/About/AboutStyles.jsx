@@ -29,19 +29,4 @@ export const AboutComponent = styled.div`
     margin-bottom: 40px;
     padding: 0.025px;
   }
-
-  button {
-    border: none;
-    padding: 20px;
-    border-radius: 10px;
-    background-color: black;
-    color: white;
-    text-transform: uppercase;
-    font-weight: 600;
-
-    &:hover {
-      cursor: pointer;
-      background-color: #202020;
-    }
-  }
 `;

@@ -3,6 +3,7 @@ import { handleDownload } from "../Download";
 import Title from "../Templates/TemplateTitle/TemplateTitle";
 import Container from "../Templates/TemplateContainer/TemplateContainer";
 import Content from "../Templates/TemplateContent/TemplateContent";
+import Button from "../ProjectButton/ProjectButton";
 
 const About = () => {
   return (
@@ -16,9 +17,10 @@ const About = () => {
                 src="../images/github-profile-pic & professional-email-profile-pic.png"
                 alt="Matheus de Souza Carvalho"
               />
-              <button onClick={handleDownload}>
-                Download Curriculum Vitae
-              </button>
+              <Button
+                title="Download Curriculum Vitae"
+                onClick={handleDownload}
+              />
             </div>
             <div>
               <p>

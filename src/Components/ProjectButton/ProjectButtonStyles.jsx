@@ -8,6 +8,12 @@ export const ProjectBtn = styled.button`
   color: white;
   text-transform: uppercase;
   font-weight: 600;
+  margin-left: 10px;
+  margin-top: 50px;
+
+  a {
+    text-decoration: none;
+  }
 
   &:hover {
     cursor: pointer;

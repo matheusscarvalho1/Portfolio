@@ -4,11 +4,7 @@ export const ProjectItem = styled.div`
   display: flex;
   align-items: center;
   margin-bottom: 50px;
-
-  img {
-    width: 300px;
-    height: 300px;
-  }
+  gap: 40px;
 
   h3 {
     color: white;
@@ -23,15 +19,25 @@ export const ProjectItem = styled.div`
   }
 
   &:nth-child(even) {
-    order: 1;
     justify-content: flex-end;
     text-align: right;
   }
 `;
 
 export const ProjectText = styled.text`
-  margin-left: 50px;
   max-width: 600px;
+  &:nth-child(even) {
+    order: 1;
+  }
+`;
+
+export const ProjectImg = styled.img`
+  width: 300px;
+  height: 300px;
+
+  &:nth-child(even) {
+    order: 2;
+  }
 `;
 
 export const ProjectItemImage = styled.div`
