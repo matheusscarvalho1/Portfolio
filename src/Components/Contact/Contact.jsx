@@ -11,7 +11,10 @@ const Contact = ({ id }) => {
   return (
     <>
       <Title id={id}>Entre em contato</Title>
-      <ContactForm>
+      <ContactForm
+        action="https://formsubmit.co/matheusdocarvalho@gmail.com"
+        method="POST"
+      >
         <FormInput
           type="text"
           name="fullName"
