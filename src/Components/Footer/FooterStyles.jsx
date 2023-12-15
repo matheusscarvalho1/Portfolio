@@ -10,6 +10,11 @@ export const FooterContainer = styled.div`
   align-items: center;
   position: relative;
   bottom: 0;
+
+  @media (max-width: 1024px) {
+    flex-direction: column;
+    align-items: center;
+  }
 `;
 
 export const SocialItems = styled.div`
@@ -24,6 +29,9 @@ export const SocialItems = styled.div`
     &:hover {
       opacity: 100%;
     }
+  }
+  @media (max-width: 1024px) {
+    margin-bottom: 15px;
   }
 `;
 

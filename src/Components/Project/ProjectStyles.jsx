@@ -29,6 +29,21 @@ export const ProjectText = styled.text`
   &:nth-child(even) {
     order: 1;
   }
+  @media (max-width: 1024px) {
+    margin-left: 0;
+    max-width: 100%;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+  }
+
+  p {
+    font-size: 0.875rem;
+    margin-top: 10px;
+  }
 `;
 
 export const ProjectImg = styled.img`

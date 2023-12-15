@@ -17,6 +17,19 @@ export const SkillItem = styled.div`
   align-items: center;
   min-height: 10px;
 
+  @media (max-width: 1024px) {
+    padding: 20px;
+
+    img {
+      width: 60px;
+      height: 60px;
+    }
+
+    p {
+      font-size: 0.875rem;
+    }
+  }
+
   span {
     margin-top: 15px;
     margin-bottom: 15px;

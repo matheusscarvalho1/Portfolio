@@ -99,7 +99,7 @@ const Projects = ({ id }) => {
 
             <ProjectWrapper>
               <Project
-                image="../images/project-5.png"
+                image="../images/project-4.png"
                 title="To Do List"
                 description="Projeto simples de um 'to do list' utilizando redux para criar global state na aplicação."
               />
@@ -117,7 +117,7 @@ const Projects = ({ id }) => {
             </ProjectWrapper>
             <ProjectWrapper>
               <Project
-                image="../images/project-6.png"
+                image="../images/project-4.png"
                 title="Projeto Steam Minimalista"
                 description="🎮 Criação de uma aplicação web utilizando React.js e Next.js da Steam que é uma um software de gestão de direitos digitais, plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos."
               />

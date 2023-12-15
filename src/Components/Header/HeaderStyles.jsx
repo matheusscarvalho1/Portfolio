@@ -29,4 +29,8 @@ export const HeaderComponent = styled.header`
     opacity: 100%;
     cursor: pointer;
   }
+
+  @media (max-width: 1024px) {
+    display: none;
+  }
 `;

@@ -12,6 +12,11 @@ export const ContactForm = styled.form`
   input {
     margin-bottom: 20px;
   }
+
+  @media (max-width: 1024px) {
+    margin-top: 40px;
+    padding: 50px;
+  }
 `;
 
 export const TextArea = styled.textarea`

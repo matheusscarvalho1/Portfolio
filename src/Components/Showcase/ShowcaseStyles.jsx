@@ -31,4 +31,17 @@ export const ShowcaseComponent = styled.div`
     padding-left: 8px;
     letter-spacing: 0.15rem;
   }
+
+  @media (max-width: 1024px) {
+    h1 {
+      font-size: 3rem;
+      text-align: center;
+      line-height: 3.3rem;
+    }
+    p {
+      font-size: 0.875rem;
+      text-align: center;
+      margin-top: 15px;
+    }
+  }
 `;

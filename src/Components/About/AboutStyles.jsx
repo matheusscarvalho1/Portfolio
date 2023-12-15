@@ -29,6 +29,22 @@ export const AboutComponent = styled.div`
     margin-bottom: 40px;
     padding: 0.025px;
   }
+
+  @media (max-width: 1024px) {
+    flex-direction: column;
+
+    img {
+      width: 200px;
+      height: 200px;
+      margin-right: 0;
+    }
+
+    p {
+      font-size: 0.875rem;
+
+      margin-top: 15px;
+    }
+  }
 `;
 
 export const Button = styled.button`
@@ -43,5 +59,11 @@ export const Button = styled.button`
   &:hover {
     cursor: pointer;
     background-color: #202020;
+  }
+
+  @media (max-width: 1024px) {
+    position: relative;
+    top: 0;
+    left: 20px;
   }
 `;
