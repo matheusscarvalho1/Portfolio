@@ -7,6 +7,8 @@ const Project = ({ image, title, description }) => {
         <ProjectImg src={image} alt={image} />
         <ProjectText>
           <h3>{title}</h3>
+        </ProjectText>
+        <ProjectText>
           <p>{description}</p>
         </ProjectText>
       </ProjectItem>

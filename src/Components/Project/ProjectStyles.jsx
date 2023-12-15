@@ -17,6 +17,10 @@ export const ProjectItem = styled.div`
     opacity: 75%;
     line-height: 29px;
   }
+
+  @media (max-width: 1024px) {
+    flex-direction: column;
+  }
 `;
 
 export const ProjectText = styled.text`
@@ -27,6 +31,10 @@ export const ProjectText = styled.text`
     max-width: 100%;
     text-align: center;
     margin-top: 20px;
+
+    &:first-child {
+      color: red;
+    }
   }
 
   h3 {
@@ -42,10 +50,6 @@ export const ProjectText = styled.text`
 export const ProjectImg = styled.img`
   width: 300px;
   height: 300px;
-
-  &:nth-child(even) {
-    order: 2;
-  }
 `;
 
 export const ProjectItemImage = styled.div`
