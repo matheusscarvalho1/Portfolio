@@ -21,4 +21,7 @@ export const SocialBtn = styled.button`
   border: none;
   cursor: pointer;
   background: none;
+  margin-right: 25px;
+  color: rgba(255, 255, 255, 0.75);
+  text-decoration: none;
 `;

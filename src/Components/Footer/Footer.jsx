@@ -1,6 +1,6 @@
-import { FooterContainer, SocialItems } from "./FooterStyles";
+import { FooterContainer, SocialBtn, SocialItems } from "./FooterStyles";
 import Social from "../Social/Social";
-// import { handleDownload } from "../Download";
+import { handleDownload } from "../Download";
 
 const Footer = () => {
   return (
@@ -35,13 +35,15 @@ const Footer = () => {
             width="30"
             height="30"
           />
-          <Social
-            link="https://www.linkedin.com/in/matheusscarvalho/"
-            image="../images/CV_ICON_F.png"
-            alt="LinkedIn"
-            width="30"
-            height="30"
-          />
+
+          <SocialBtn onClick={handleDownload}>
+            <img
+              src="../images/CV_ICON_F.png"
+              width={30}
+              height={30}
+              alt="CV"
+            />
+          </SocialBtn>
         </SocialItems>
         <p>© Copyright 2023</p>
       </FooterContainer>

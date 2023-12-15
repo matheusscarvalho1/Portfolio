@@ -21,7 +21,7 @@ export const AboutComponent = styled.div`
   div > button {
     position: relative;
     top: 50px;
-    left: 150px;
+    left: 120px;
   }
 
   p {
