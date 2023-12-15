@@ -38,9 +38,10 @@ export const AboutComponent = styled.div`
     color: white;
     text-transform: uppercase;
     font-weight: 600;
-    margin-top: 50px;
+
     &:hover {
       cursor: pointer;
+      background-color: #202020;
     }
   }
 `;
