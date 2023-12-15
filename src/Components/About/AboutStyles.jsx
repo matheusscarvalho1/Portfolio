@@ -4,7 +4,6 @@ export const AboutComponent = styled.div`
   display: flex;
   align-items: center;
   margin-top: 50px;
-  height: 100vh;
 
   img {
     width: 400px;

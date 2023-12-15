@@ -3,7 +3,7 @@ import { TemplateContent } from "./ContentStyles";
 const Content = ({ children }) => {
   return (
     <>
-      <TemplateContent>{children}</TemplateContent>;
+      <TemplateContent>{children}</TemplateContent>
     </>
   );
 };

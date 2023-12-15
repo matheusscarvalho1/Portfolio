@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const ContactForm = styled.form`
   display: flex;
-  height: 100vh;
+  height: 50vh;
   flex-direction: column;
   margin-top: 100px;
   max-width: 800px;
