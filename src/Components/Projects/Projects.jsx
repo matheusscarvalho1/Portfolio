@@ -24,7 +24,7 @@ const Projects = ({ id }) => {
                 de horário."
               />
               <ProjectButton
-                title="Ver projeto"
+                title="Acesse"
                 target="_blank"
                 href="https://projeto-barber-shop-xi.vercel.app"
                 rel="noreferrer"
@@ -41,10 +41,10 @@ const Projects = ({ id }) => {
               <Project
                 image="../images/project-2.png"
                 title="Projeto site corporativo"
-                description="📱 Página Web responsiva pensando também nos usuários mobile, aplicação desenvolvida utilizando TailwindCSS desenvolvida com Vite + React (ainda em desenvolvimento)"
+                description="📱 Página Web responsiva pensando também nos usuários mobile, aplicação desenvolvida utilizando TailwindCSS desenvolvida com Vite + React (ainda em desenvolvimento)."
               />
               <ProjectButton
-                title="Ver projeto"
+                title="Acesse"
                 target="_blank"
                 href="https://design-responsivo-tailwind.vercel.app"
                 rel="noreferrer"
@@ -60,14 +60,11 @@ const Projects = ({ id }) => {
               <Project
                 image="../images/project-3.png"
                 title="Projeto Site Portifólio"
-                description="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit quas illo
-                nemo perferendis, exercitationem qui illum quisquam facere quam, nostrum
-                magnam atque, id laudantium voluptatum quis cumque? Dolorem natus quaerat
-                corporis est quae doloribus aperiam? Repellendus nam reiciendis mollitia
-                veniam."
+                description="Projeto criado para servir de portfolio mostrando minha história, minhas Hard Skills como programador, minhas Soft Skills como colega de trabalho, minhas experiência como desenvolvedor utilizando as habilidades citadas no projeto e contato caso queiras entrar em contato comigo."
+                details="Para mais informações clique em "
               />
               <ProjectButton
-                title="Ver projeto"
+                title="Acesse"
                 target="_blank"
                 href="https://portfolio-matheusscarvalho.vercel.app"
                 rel="noreferrer"
@@ -83,11 +80,11 @@ const Projects = ({ id }) => {
             <ProjectWrapper>
               <Project
                 image="../images/project-4.png"
-                title="Projeto simulador de "
-                description="Novo projeto consumindo API usando react router, material ui e context API para simular um login no sistema."
+                title="Projeto simulador de CRUD"
+                description="Projeto desenvolvido com React.JS, estilizado com Material UI e com navegação utilizando React Router, o projeto simula uma CRUD, então é possível criar, listar, editar e apagar dados de clientes, clientes esses que já estão 'cadastrados' préviamente através de uma API com informações como foto, nome e email."
               />
               <ProjectButton
-                title="Ver projeto"
+                title="Acesse"
                 target="_blank"
                 href="https://project-react-router-material-ui.vercel.app"
                 rel="noreferrer"
@@ -107,7 +104,7 @@ const Projects = ({ id }) => {
                 description="Projeto simples de um todo list utilizando redux para criar global state na aplicação."
               />
               <ProjectButton
-                title="Ver projeto"
+                title="Acesse"
                 target="_blank"
                 href="https://todo-list-redux-peach.vercel.app"
               />
@@ -129,7 +126,7 @@ const Projects = ({ id }) => {
                 veniam?"
               />
               <ProjectButton
-                title="Ver projeto"
+                title="Acesse"
                 target="_blank"
                 href="#"
                 rel="noreferrer"
