@@ -47,7 +47,7 @@ const Projects = ({ id }) => {
               <Project
                 image="../images/Project-Portfolio.png"
                 title="Projeto Site Portfólio"
-                description="Projeto criado para servir de portfólio mostrando minha história, minhas Hard Skills como programador, minhas Soft Skills como colega de trabalho, minhas experiência como desenvolvedor utilizando as habilidades citadas no projeto e contato caso queira entrar em contato comigo. (Parte responsiva está com ajustes);"
+                description="Projeto criado para servir de portfólio mostrando minha história, minhas Hard Skills como programador, minhas Soft Skills como colega de trabalho, minhas experiência como desenvolvedor utilizando as habilidades citadas no projeto e contato caso queira entrar em contato comigo."
               />
               <ButtonWrapper>
                 <ProjectButton
@@ -89,7 +89,7 @@ const Projects = ({ id }) => {
             <ProjectWrapper>
               <Project
                 image="../images/LOADING.png"
-                title="Projeto simulador de CRUD"
+                title="Projeto Simulador de CRUD"
                 description="Projeto desenvolvido com React.JS, estilizado com Material UI e com navegação utilizando React Router, o projeto simula uma CRUD, então é possível criar, listar, editar e apagar dados de clientes, clientes esses que já estão 'cadastrados' préviamente através de uma API com informações como foto, nome e email."
               />
               <ButtonWrapper>
@@ -110,7 +110,7 @@ const Projects = ({ id }) => {
             <ProjectWrapper>
               <Project
                 image="../images/LOADING.png"
-                title="Projeto site corporativo"
+                title="Projeto Site Corporativo"
                 description="📱 Página Web responsiva pensando também nos usuários mobile, aplicação desenvolvida utilizando TailwindCSS desenvolvida com Vite + React (Parte responsiva está com ajustes);"
               />
               <ButtonWrapper>
