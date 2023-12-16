@@ -22,7 +22,7 @@ const Projects = ({ id }) => {
               <Project
                 image="../images/Project-Barber-Shop.png"
                 title="Projeto Barber Shop"
-                description="💈✂️ Página Web responsiva desenvolvida em React.JS & Next.JS de
+                description="💈✂️ Página Web responsiva desenvolvida em Next.JS de
                 uma barbearia ilustrando os tipos de serviços prestados,
                 história da barbearia, localização e formulário para agendamento
                 de horário."
@@ -47,7 +47,7 @@ const Projects = ({ id }) => {
               <Project
                 image="../images/Project-Portfolio.png"
                 title="Projeto Site Portfólio"
-                description="Projeto criado para servir de portfólio mostrando minha história, minhas Hard Skills como programador, minhas Soft Skills como colega de trabalho, minhas experiência como desenvolvedor utilizando as habilidades citadas no projeto e contato caso queira entrar em contato comigo."
+                description="Projeto criado em React para servir de portfólio mostrando minha história, minhas Hard Skills como programador, minhas Soft Skills como colega de trabalho, minhas experiência como desenvolvedor utilizando as habilidades citadas no projeto e contato caso queira entrar em contato comigo."
               />
               <ButtonWrapper>
                 <ProjectButton
@@ -68,7 +68,7 @@ const Projects = ({ id }) => {
               <Project
                 image="../images/PROJECT-STEAM-ICON.png"
                 title="Projeto Steam Minimalista"
-                description="🎮 Criação de uma aplicação web utilizando React.js e Next.js da Steam que é uma um software de gestão de direitos digitais, plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos. (Projeto em manutenção - Logo será disponibilizado)."
+                description="🎮 Criação de uma aplicação web utilizando React da Steam que é uma um software de gestão de direitos digitais, plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos. (Projeto em manutenção - Logo será disponibilizado)."
               />
               <ButtonWrapper>
                 <ProjectButton
