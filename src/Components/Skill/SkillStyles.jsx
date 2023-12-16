@@ -21,8 +21,8 @@ export const SkillItem = styled.div`
     padding: 20px;
 
     img {
-      width: 60px;
-      height: 60px;
+      width: 40px;
+      height: 40px;
     }
 
     p {
