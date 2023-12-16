@@ -111,7 +111,7 @@ const Projects = ({ id }) => {
               <Project
                 image="../images/LOADING.png"
                 title="Projeto Site Corporativo"
-                description="📱 Página Web responsiva pensando também nos usuários mobile, aplicação desenvolvida utilizando TailwindCSS desenvolvida com Vite + React (Parte responsiva está com ajustes);"
+                description="📱 Página Web responsiva pensando também nos usuários mobile, aplicação desenvolvida utilizando TailwindCSS desenvolvida com Vite + React (Parte responsiva ainda está em desenvolvimento);"
               />
               <ButtonWrapper>
                 <ProjectButton
