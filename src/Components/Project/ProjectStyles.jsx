@@ -55,23 +55,3 @@ export const ProjectItemImage = styled.div`
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 15px;
 `;
-
-// export const ProjectItem1 = styled(ProjectItemImage)`
-//   background-image: url("./public/images/project-1.png");
-// `;
-
-// export const ProjectItem2 = styled(ProjectItemImage)`
-//   background-image: url("./public/images/project-2.png");
-//   order: 1;
-//   margin-left: 50px;
-// `;
-
-// export const ProjectItem3 = styled(ProjectItemImage)`
-//   background-image: url("./public/images/project-3.png");
-// `;
-
-// export const ProjectItem4 = styled(ProjectItemImage)`
-//   background-image: url("./public/images/project-4.png");
-//   order: 1;
-//   margin-left: 50px;
-// `;
