@@ -15,7 +15,9 @@ Também é necessário uma IDE, recomendo o [VSCode](https://code.visualstudio.c
 
 ## Tecnologias utilizadas no projeto
 
-- [ReactJs na versão 18.2.0](https://github.com/facebook/react)
+- [ReactJs na versão 18.2.0](https://pt-br.legacy.reactjs.org)
+- [Styled Components na versão 6.1.1](https://styled-components.com)
+- [Nodemon na versão 3.0.2](https://www.npmjs.com/package/nodemon)
 
 
 ## Como rodar o projeto
@@ -26,11 +28,14 @@ Para instalar as bibliotecas e dependências:
 npm i
 ```
 
-Após instalar, basta utilizar o seguinte comando:
+Após instalar, basta utilizar o comando para abrir o ambiente de desenvolvimento do nodemon:
 
 ```bash
-npm start
+npm run dev
 ```
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/eee57160-c377-46c1-91b5-ac6f4fdc10b7)
+
 
 Depois, é só abrir [http://localhost:3000](http://localhost:3000) no seu navegador.
 
@@ -138,8 +143,8 @@ Seria interessante a implementação de uma API para consumir dados de um banco 
 
 <b>Matheus de Souza Carvalho</b>
 
-Linkedin:
-https://www.linkedin.com/in/matheusscarvalho/
+LinkedIn:
+[https://www.linkedin.com/in/matheusscarvalho/](https://www.linkedin.com/in/matheusscarvalho/)
 
 E-mail:
 matheusdocarvalho@gmail.com
