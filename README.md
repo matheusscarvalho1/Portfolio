@@ -16,7 +16,7 @@ Também é necessário uma IDE, recomendo o [VSCode](https://code.visualstudio.c
 ## Tecnologias utilizadas no projeto
 
 - [ReactJs na versão 18.2.0](https://github.com/facebook/react)
-- [NextJs na sua versão 13.4.1](https://github.com/vercel/next.js)
+
 
 ## Como rodar o projeto
 
@@ -29,7 +29,7 @@ npm i
 Após instalar, basta utilizar o seguinte comando:
 
 ```bash
-npm run dev
+npm start
 ```
 
 Depois, é só abrir [http://localhost:3000](http://localhost:3000) no seu navegador.
