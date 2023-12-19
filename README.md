@@ -45,46 +45,55 @@ Depois, é só abrir [http://localhost:3000](http://localhost:3000) no seu naveg
 <div align="center">
 <b><h2>Seção do site - Home</h2></b>
 
-![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/2a54ff7f-b90c-4e31-8d95-5f38540a6700)
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/0d361e60-6a2e-4642-947a-22b221259097)
+
 
 
 <hr>
 <b><h2>Seção do site - Sobre</h2></b>
 
-![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/9c3f22fe-e8c9-45c5-8bf6-f378dd6d8119)
-
-
-<hr>
-<b><h2>Seção do site - Serviços</h2></b>
-
-![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/30c01bcd-543b-4457-8380-9621cbe110d9)
-
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/d30b4440-e651-4429-8b19-7b20a3120608)
 
 
 
 <hr>
-<b><h2>Seção do site - Agendamento</h2></b>
+<b><h2>Seção do site - Habilidades</h2></b>
 
-![image](https://user-images.githubusercontent.com/73304785/224450864-cbaef472-24d7-4106-94e6-92519ebb9771.png)
-
-<p align="left">
-  - Ao preencher este formulário chegará uma notificação com as informações preenchidas no e-mail desejado.
-</p> 
-  
-
-![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/d60ac997-fb5d-4977-b3a4-7e0cf4e34ebd)
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/7ee2cb1b-6a26-4098-815d-8f05459ba3e9)
 
 
-<hr>
-<b><h2>Seção do site - Galeria</h2></b>
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/de6b2ef9-f40b-465c-a46e-ee322d1f683b)
 
-![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/6cd1a2d5-5903-452e-98c8-4541f55b0bcd)
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/b2f75171-932b-4518-adfa-7ef27b2274b7)
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/d856d04d-10c2-43fd-8fd5-b186e95b7bb9)
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/1f58616b-884c-49c8-bcf7-754e5d12ab46)
+
+
 
 
 <hr>
-<b><h2>Seção do site - Localização</h2></b>
+<b><h2>Seção do site - Projetos</h2></b>
 
-![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/6aeebb3a-f426-47e9-9ae5-20c604395234)
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/a9cff1b4-ae27-4e4a-bda4-d4481691191c)
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/b399055d-f137-4cb2-8039-9900272b142e)
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/04d94fbc-2c79-4390-85d0-f71046045d1b)
+
+
+
+
+<hr>
+<b><h2>Seção do site - Contato</h2></b>
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/01fa293e-4472-416c-909b-755d1378854f)
+
+
+
+
+<hr>
 </div>
 
 ## Mobile
@@ -92,52 +101,75 @@ Depois, é só abrir [http://localhost:3000](http://localhost:3000) no seu naveg
 <div align="center">
 <b><h2>Seção do site - Home</h2></b>
 
-![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/66dd978f-0656-41fc-bc7f-56c75757a711)
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/507c9654-28a2-4922-a392-e3b07fb66f44)
+
 
 <hr>
-<b><h2>Seção do site - Home (Menu Dropdown)</h2></b>
 
-![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/14a67640-d559-42f7-ab5d-2b77cf2e4c0b)
-<hr>
 <b><h2>Seção do site - Sobre</h2></b>
 
-![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/7c82f6a1-3760-47aa-8fde-c52f0c992926)
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/cbe6546f-558e-42fd-aea5-88ffc3678044)
 
-<hr>
-<b><h2>Seção do site - Nossos Serviços</h2></b>
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/584b01ca-a30f-408f-bf20-711f4db2e7aa)
 
-![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/f6ad0d23-eb7f-447d-ae82-facdfe946cd9)
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/7f8ba8b4-b9dd-4e58-9d12-d30bc06b1a3a)
 
-![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/724a786d-25fc-47b0-bf9f-20e4b934adc2)
-
-![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/6913a518-f5e3-44af-8af7-ba159cdc0209)
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/14a13edf-087a-4d5d-b391-9ac05450bd62)
 
 
 
-
-<hr>
-<b><h2>Seção do site - Agendamento</h2></b>
-
-![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/74de4bce-b923-4fd0-aa9e-77a012ec5843)
-<hr>
-<b><h2>Seção do site - Galeria</h2></b>
-
-![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/698720df-23c3-42e8-9b2a-c64e9e1c00df)
 
 
 <hr>
+<b><h2>Seção do site - Habilidades</h2></b>
 
-<b><h2>Seção do site - Localização</h2></b>
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/ebe7043c-f316-47b6-970c-4143e736aec2)
 
-![image](https://github.com/matheusscarvalho1/Projeto-Barber-Shop/assets/73304785/f14b0846-db15-4fdb-95da-a9ae6081fc50)
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/4781da31-f1dd-43b5-a8d9-6c4e374b81cd)
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/f4ba5cfa-f62e-48a2-9551-b00fc86cff2a)
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/f08b911b-7a41-403d-8450-08f153b95bc3)
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/418934bf-3bde-43ef-95ce-08d087550c36)
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/d020c7fe-15bd-4c5f-9f89-0d3184010e71)
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/9f5fa7f5-d1bd-4eb0-8128-1bff1b7c307b)
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/9f62b66d-e4d2-4009-89a1-1474cadf6259)
 
 
 <hr>
+<b><h2>Seção do site - Projetos</h2></b>
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/6fcf4005-01a2-490f-b5d1-24c718d367dc)
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/af72eea4-271c-4a36-80f1-860370bae6d4)
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/8c2b921b-ecdc-4401-86ed-d707a8304e19)
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/42047ccf-62f3-4ed2-903c-48acaa6134c0)
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/b8169b40-ecb2-4183-b4bb-c7ac20b3e4c5)
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/abcabe19-ceb6-4b3e-9a8f-9f62164c3fba)
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/5a211148-8b80-46da-b8f7-d9666ff6e7ce)
+
+
+
+<hr>
+<b><h2>Seção do site - Contato</h2></b>
+
+![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/2b1d4ee8-adaa-4ce8-92e4-62002e868ed7)
+
+
+
+<hr>
+
 </div>
 
-# Próximos passos
-
-Seria interessante a implementação de uma API para consumir dados de um banco de dados para armazenar os agendamentos dos clientes.
 
 # Autor
 
