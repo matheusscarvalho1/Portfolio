@@ -1,11 +1,11 @@
-# Projeto Barber Shop
+# Projeto Portfólio
 <div align="center">
   
 ![image](https://github.com/matheusscarvalho1/portfolio/assets/73304785/491bed84-3a92-42de-9823-4d493db53628)
 
 
 </div>
-O Projeto é baseado em uma barbearia onde o cliente pode consultar sobre a história da barbearia agregando valor ao serviço, pode saber mais sobre os tipos de serviços que a barbearia presta ao cliente, pode marcar horário através da aplicação pois após preencher o formulário de agendamento chega uma notificação com as informações preenchidas ao e-mail do barbeiro, além disso o cliente também pode consultar a localização da barbearia, tudo em um lugar só, além disso, a responsividade tambén está implementada, tornando todas as seções do site acessiveis a dispositivos móveis.
+Projeto criado para servir de portfólio contando um pouco da minha história como desenvolvedor, minhas Hard Skills , minhas Soft Skills como colega de trabalho, minhas experiência  utilizando as tecnologias citadas no projeto e contato caso queira entrar em contato comigo.
 
 ## Pré requisitos
 
