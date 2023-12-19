@@ -68,7 +68,7 @@ const Projects = ({ id }) => {
               <Project
                 image="../images/PROJECT-STEAM-ICON.png"
                 title="Projeto Steam Minimalista"
-                description="🎮 Criação de uma aplicação web utilizando React da Steam que é uma um software de gestão de direitos digitais, plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos. (Projeto em manutenção - Logo será disponibilizado)."
+                description="🎮 Criação de uma aplicação web utilizando React baseado na plataforma Steam que é uma um software de gestão de direitos digitais, plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos. (Projeto em manutenção - Logo será disponibilizado)."
               />
               <ButtonWrapper>
                 <ProjectButton
@@ -81,6 +81,28 @@ const Projects = ({ id }) => {
                   title="GitHub"
                   target="_blank"
                   href="https://github.com/matheusscarvalho1/minimalist-steam-react.js-next.js"
+                  rel="noreferrer"
+                />
+              </ButtonWrapper>
+            </ProjectWrapper>
+
+            <ProjectWrapper>
+              <Project
+                image="../images/PROJECT_FORECAST_WEATHER.svg"
+                title="Projeto Clima Hoje"
+                description="🌦️ Criação de uma aplicação web utilizando React e CSS Modules em que mostra a temperatura da cidade ao decorrer do dia, contemplando também a sensação térmica, a chance de chuva, a velocidade do vento, e o índice UV, além disso mostra as temperaturas máximas e mínimas dos outros dias da semana."
+              />
+              <ButtonWrapper>
+                <ProjectButton
+                  title="Acesse"
+                  target="_blank"
+                  href="https://app-previsao-do-tempo-six.vercel.app"
+                  rel="noreferrer"
+                />
+                <ProjectButton
+                  title="GitHub"
+                  target="_blank"
+                  href="https://github.com/matheusscarvalho1/app-previsao-do-tempo"
                   rel="noreferrer"
                 />
               </ButtonWrapper>
