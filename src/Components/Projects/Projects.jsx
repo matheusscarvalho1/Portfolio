@@ -31,7 +31,7 @@ const Projects = ({ id }) => {
                 <ProjectButton
                   title="Acesse"
                   target="_blank"
-                  href="https://projeto-barber-shop-xi.vercel.app"
+                  href="https://barber-shop-projeto.vercel.app"
                   rel="noreferrer"
                 />
                 <ProjectButton
