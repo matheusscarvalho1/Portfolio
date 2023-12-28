@@ -5,7 +5,7 @@
 
 
 </div>
-Projeto criado para servir de portfólio contando um pouco da minha história como desenvolvedor, minhas Hard Skills , minhas Soft Skills como colega de trabalho, minhas experiência  utilizando as tecnologias citadas no projeto e contato caso queira entrar em contato comigo.
+Projeto criado para servir de portfólio contando um pouco da minha história como desenvolvedor, minhas Hard Skills, minhas Soft Skills como colega de trabalho, minhas experiência  utilizando as tecnologias citadas no projeto e contato caso queira entrar em contato comigo.
 
 ## Pré requisitos
 
