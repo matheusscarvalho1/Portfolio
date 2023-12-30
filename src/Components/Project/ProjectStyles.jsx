@@ -44,14 +44,6 @@ export const ProjectText = styled.text`
 `;
 
 export const ProjectImg = styled.img`
-  width: 300px;
-  height: 300px;
-`;
-
-export const ProjectItemImage = styled.div`
-  width: 300px;
-  height: 300px;
-  background-size: cover;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  border-radius: 15px;
+  width: 250px;
+  height: 250px;
 `;

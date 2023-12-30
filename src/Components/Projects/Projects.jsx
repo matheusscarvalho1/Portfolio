@@ -110,7 +110,28 @@ const Projects = ({ id }) => {
 
             <ProjectWrapper>
               <Project
-                image="../images/LOADING.png"
+                image="../images/TODO_ICON.png"
+                title="To Do List"
+                description="✅ Projeto elaborado em React, utilizando redux, para criar global state na aplicação, afim de desenvolver uma lista de tarefas de coisas que precisam ser feitas no dia a dia."
+              />
+              <ButtonWrapper>
+                <ProjectButton
+                  title="Acesse"
+                  target="_blank"
+                  href="https://todo-list-redux-peach.vercel.app"
+                  rel="noreferrer"
+                />
+                <ProjectButton
+                  title="GitHub"
+                  target="_blank"
+                  href="https://github.com/matheusscarvalho1/todo-list-redux"
+                  rel="noreferrer"
+                />
+              </ButtonWrapper>
+            </ProjectWrapper>
+            <ProjectWrapper>
+              <Project
+                image="../images/CRUD_ICON.png"
                 title="Projeto Simulador de CRUD"
                 description="Projeto desenvolvido com React.JS, estilizado com Material UI e com navegação utilizando React Router, o projeto simula uma CRUD, então é possível criar, listar, editar e apagar dados de clientes, clientes esses que já estão 'cadastrados' préviamente através de uma API com informações como foto, nome e email."
               />
@@ -146,28 +167,6 @@ const Projects = ({ id }) => {
                   title="GitHub"
                   target="_blank"
                   href="https://github.com/matheusscarvalho1/Design-Responsivo-Tailwind"
-                  rel="noreferrer"
-                />
-              </ButtonWrapper>
-            </ProjectWrapper>
-
-            <ProjectWrapper>
-              <Project
-                image="../images/LOADING.png"
-                title="To Do List"
-                description="Projeto simples de um 'to do list' utilizando redux para criar global state na aplicação."
-              />
-              <ButtonWrapper>
-                <ProjectButton
-                  title="Acesse"
-                  target="_blank"
-                  href="https://todo-list-redux-peach.vercel.app"
-                  rel="noreferrer"
-                />
-                <ProjectButton
-                  title="GitHub"
-                  target="_blank"
-                  href="https://github.com/matheusscarvalho1/todo-list-redux"
                   rel="noreferrer"
                 />
               </ButtonWrapper>
