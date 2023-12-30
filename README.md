@@ -5,7 +5,7 @@
 
 
 </div>
-Projeto criado para servir de portfólio contando um pouco da minha história como desenvolvedor, minhas Hard Skills , minhas Soft Skills como colega de trabalho, minhas experiência  utilizando as tecnologias citadas no projeto e contato caso queira entrar em contato comigo.
+Projeto criado para servir de portfólio contando um pouco da minha história como desenvolvedor, minhas Hard Skills, minhas Soft Skills como colega de trabalho, minhas experiência  utilizando as tecnologias citadas no projeto e contato caso queira entrar em contato comigo.
 
 ## Pré requisitos
 
@@ -17,7 +17,6 @@ Também é necessário uma IDE, recomendo o [VSCode](https://code.visualstudio.c
 
 - [ReactJs na versão 18.2.0](https://pt-br.legacy.reactjs.org)
 - [Styled Components na versão 6.1.1](https://styled-components.com)
-- [Nodemon na versão 3.0.2](https://www.npmjs.com/package/nodemon)
 
 
 ## Como rodar o projeto
