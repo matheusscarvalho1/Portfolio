@@ -133,7 +133,7 @@ const Projects = ({ id }) => {
               <Project
                 image="../images/CRUD_ICON.png"
                 title="Projeto Simulador de CRUD"
-                description="Projeto desenvolvido com React.JS, estilizado com Material UI e com navegação utilizando React Router, o projeto simula uma CRUD, então é possível criar, listar, editar e apagar dados de clientes, clientes esses que já estão 'cadastrados' préviamente através de uma API com informações como foto, nome e email."
+                description="📁 Projeto desenvolvido com React.JS, estilizado com Material UI e com navegação utilizando React Router, o projeto simula uma CRUD, então é possível criar, listar, editar e apagar dados de clientes, clientes esses que já estão 'cadastrados' préviamente através de uma API com informações como foto, nome e email."
               />
               <ButtonWrapper>
                 <ProjectButton
