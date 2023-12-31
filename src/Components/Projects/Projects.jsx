@@ -112,7 +112,7 @@ const Projects = ({ id }) => {
               <Project
                 image="../images/TODO_ICON.png"
                 title="To Do List"
-                description="✅ Projeto elaborado em React, utilizando redux, para criar global state na aplicação, afim de desenvolver uma lista de tarefas de coisas que precisam ser feitas no dia a dia."
+                description="✅ Projeto elaborado em React, utilizando redux (apesar de não ser necessário por conta da aplicação ser pequena, mas foi utilizado para fins de aprimorar o conhecimento em React Redux), para criar global state na aplicação, afim de desenvolver uma lista de tarefas de coisas que precisam ser feitas no dia a dia."
               />
               <ButtonWrapper>
                 <ProjectButton
