@@ -26,6 +26,7 @@ const Projects = ({ id }) => {
                 uma barbearia ilustrando os tipos de serviços prestados,
                 história da barbearia, localização e formulário para agendamento
                 de horário."
+                info="Para informações mais detalhadas do projeto, acesse o Github."
               />
               <ButtonWrapper>
                 <ProjectButton
@@ -48,6 +49,7 @@ const Projects = ({ id }) => {
                 image="../images/Project-Portfolio.png"
                 title="Projeto Site Portfólio"
                 description="💼 Projeto criado em React para servir de portfólio mostrando minha história, minhas Hard Skills como programador, minhas Soft Skills como colega de trabalho, minhas experiência como desenvolvedor utilizando as habilidades citadas no projeto e contato caso queira entrar em contato comigo."
+                info="Para informações mais detalhadas do projeto, acesse o Github."
               />
               <ButtonWrapper>
                 <ProjectButton
@@ -69,6 +71,7 @@ const Projects = ({ id }) => {
                 image="../images/PROJECT-STEAM-ICON.png"
                 title="Projeto Steam Minimalista"
                 description="🎮 Criação de uma aplicação web utilizando React baseado na plataforma Steam que é uma um software de gestão de direitos digitais, plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos. (Projeto em manutenção - Logo será disponibilizado)."
+                info="Para informações mais detalhadas do projeto, acesse o Github."
               />
               <ButtonWrapper>
                 <ProjectButton
@@ -91,6 +94,7 @@ const Projects = ({ id }) => {
                 image="../images/PROJECT_FORECAST_WEATHER.svg"
                 title="Projeto Clima Hoje"
                 description="🌦️ Criação de uma aplicação web utilizando React e CSS Modules em que mostra a temperatura da cidade ao decorrer do dia, contemplando também a sensação térmica, a chance de chuva, a velocidade do vento, e o índice UV, além disso mostra as temperaturas máximas e mínimas dos outros dias da semana."
+                info="Para informações mais detalhadas do projeto, acesse o Github."
               />
               <ButtonWrapper>
                 <ProjectButton
@@ -113,6 +117,7 @@ const Projects = ({ id }) => {
                 image="../images/TODO_ICON.png"
                 title="To Do List"
                 description="✅ Projeto elaborado em React, utilizando Redux (apesar de não ser necessário por conta da aplicação ser pequena, mas foi utilizado para fins de aprimorar o conhecimento em React Redux), para criar global state na aplicação, afim de desenvolver uma lista de tarefas de coisas que precisam ser feitas no dia a dia."
+                info="Para informações mais detalhadas do projeto, acesse o Github."
               />
               <ButtonWrapper>
                 <ProjectButton
@@ -133,7 +138,8 @@ const Projects = ({ id }) => {
               <Project
                 image="../images/CRUD_ICON.png"
                 title="Projeto Simulador de CRUD"
-                description="📁 Projeto desenvolvido com React.JS, estilizado com Material UI e com navegação utilizando React Router, o projeto simula uma CRUD, então é possível criar, listar, editar e apagar dados de clientes, clientes esses que já estão 'cadastrados' préviamente através de uma API com informações como foto, nome e email."
+                description="📁 O projeto simula uma CRUD, então é possível criar, listar, editar e apagar dados de clientes, clientes esses que já estão 'cadastrados' préviamente através de uma API com informações como foto, nome e email, e também criado uma simulação de um sistema de login utilizado Context API para consumir dados globais do usuário logado."
+                info="Para informações mais detalhadas do projeto, acesse o Github."
               />
               <ButtonWrapper>
                 <ProjectButton
@@ -155,6 +161,7 @@ const Projects = ({ id }) => {
                 image="../images/LOADING.png"
                 title="Projeto Site Corporativo"
                 description="📱 Página Web responsiva pensando também nos usuários mobile, aplicação desenvolvida utilizando TailwindCSS desenvolvida com Vite + React (Parte responsiva ainda está em desenvolvimento);"
+                info="Para informações mais detalhadas do projeto, acesse o Github."
               />
               <ButtonWrapper>
                 <ProjectButton

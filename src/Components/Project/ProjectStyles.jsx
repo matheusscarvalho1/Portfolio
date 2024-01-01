@@ -18,6 +18,16 @@ export const ProjectItem = styled.div`
     line-height: 29px;
   }
 
+  small {
+    background-color: #202020;
+    color: white;
+    padding: 9px;
+    display: block;
+    margin-top: 10px;
+    font-size: 0.799rem;
+    border-radius: 5px;
+  }
+
   @media (max-width: 1024px) {
     flex-direction: column;
   }

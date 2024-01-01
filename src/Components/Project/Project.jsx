@@ -1,6 +1,6 @@
 import { ProjectItem, ProjectText, ProjectImg } from "./ProjectStyles";
 
-const Project = ({ image, title, description }) => {
+const Project = ({ image, title, description, info }) => {
   return (
     <>
       <ProjectItem>
@@ -10,6 +10,7 @@ const Project = ({ image, title, description }) => {
         </ProjectText>
         <ProjectText>
           <p>{description}</p>
+          <small>{info}</small>
         </ProjectText>
       </ProjectItem>
     </>
