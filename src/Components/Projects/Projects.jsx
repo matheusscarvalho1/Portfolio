@@ -100,7 +100,7 @@ const Projects = ({ id }) => {
                 <ProjectButton
                   title="Acesse"
                   target="_blank"
-                  href="https://app-previsao-do-tempo-six.vercel.app"
+                  href="https://projeto-clima-hoje.vercel.app/"
                   rel="noreferrer"
                 />
                 <ProjectButton
@@ -123,7 +123,7 @@ const Projects = ({ id }) => {
                 <ProjectButton
                   title="Acesse"
                   target="_blank"
-                  href="https://todo-list-redux-peach.vercel.app"
+                  href="https://projeto-to-do-list-redux.vercel.app/"
                   rel="noreferrer"
                 />
                 <ProjectButton
