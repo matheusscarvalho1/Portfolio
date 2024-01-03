@@ -1,6 +1,7 @@
 import Title from "../Templates/TemplateTitle/TemplateTitle";
 
 import {
+  Email,
   ContactForm,
   SubmitButton,
   TextArea,
@@ -16,6 +17,12 @@ const Contact = ({ id }) => {
       <Container>
         <Content>
           <Title id={id}>Entre em contato</Title>
+          <Email>
+            Email:
+            <div>
+              <strong>matheusdocarvalho@gmail.com</strong>
+            </div>
+          </Email>
           <ContactForm
             action="https://formsubmit.co/matheusdocarvalho@gmail.com"
             method="POST"

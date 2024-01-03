@@ -4,7 +4,7 @@ export const ContactForm = styled.form`
   display: flex;
   height: 50vh;
   flex-direction: column;
-  margin-top: 100px;
+  margin-top: 50px;
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
@@ -50,5 +50,27 @@ export const SubmitButton = styled.input`
   &:hover {
     cursor: pointer;
     background-color: #202020;
+  }
+`;
+
+export const Email = styled.div`
+  background-color: #202020;
+  color: white;
+  padding: 9px;
+  display: block;
+  margin-top: 10px;
+  font-size: 1rem;
+  border-radius: 5px;
+  margin-top: 50px;
+  width: fit-content;
+  text-transform: uppercase;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+
+  div {
+    font-weight: 600;
+    display: flex;
+    margin-left: 5px;
   }
 `;
