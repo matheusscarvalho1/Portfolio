@@ -48,7 +48,7 @@ const Projects = ({ id }) => {
               <Project
                 image="../images/Project-Portfolio.png"
                 title="Projeto Site Portfólio"
-                description="💼 Projeto criado em React para servir de portfólio mostrando minha história, minhas Hard Skills como programador, minhas Soft Skills como colega de trabalho, minhas experiência como desenvolvedor utilizando as habilidades citadas no projeto e contato caso queira entrar em contato comigo."
+                description="💼 Projeto criado em React para servir de portfólio mostrando minha história, minhas Hard Skills como programador, minhas Soft Skills como colega de trabalho, minhas experiências como desenvolvedor utilizando as habilidades citadas no projeto e contato caso queira entrar em contato comigo."
                 info="Para informações mais detalhadas do projeto, acesse o Github."
               />
               <ButtonWrapper>
