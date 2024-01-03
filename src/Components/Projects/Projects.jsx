@@ -22,7 +22,7 @@ const Projects = ({ id }) => {
               <Project
                 image="../images/Project-Barber-Shop.png"
                 title="Projeto Barber Shop"
-                description="💈✂️ Página Web responsiva desenvolvida em Next.JS de
+                description="💈✂️ Página Web responsiva desenvolvida em React.JS de
                 uma barbearia ilustrando os tipos de serviços prestados,
                 história da barbearia, localização e formulário para agendamento
                 de horário."
