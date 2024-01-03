@@ -123,7 +123,7 @@ const Projects = ({ id }) => {
                 <ProjectButton
                   title="Acesse"
                   target="_blank"
-                  href="https://projeto-to-do-list-redux.vercel.app/"
+                  href="https://redux-to-do-list-lilac.vercel.app"
                   rel="noreferrer"
                 />
                 <ProjectButton
