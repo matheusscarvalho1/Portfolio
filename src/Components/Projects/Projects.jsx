@@ -145,7 +145,7 @@ const Projects = ({ id }) => {
                 <ProjectButton
                   title="Acesse"
                   target="_blank"
-                  href="https://project-react-router-material-ui.vercel.app"
+                  href="https://projeto-simulador-de-crud.vercel.app"
                   rel="noreferrer"
                 />
                 <ProjectButton
