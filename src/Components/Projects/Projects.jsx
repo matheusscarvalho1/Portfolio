@@ -159,21 +159,21 @@ const Projects = ({ id }) => {
             <ProjectWrapper>
               <Project
                 image="../images/LOADING.png"
-                title="Projeto Site Corporativo"
-                description="📱 Página Web responsiva pensando também nos usuários mobile, aplicação desenvolvida utilizando TailwindCSS desenvolvida com Vite + React (Parte responsiva ainda está em desenvolvimento);"
+                title="Projeto Tesla Bank"
+                description="💸 O TeslaBank é um site empresarial desenvolvido para oferecer serviços bancários inovadores e centrados no cliente. O projeto foi construído utilizando as tecnologias React e Tailwind CSS, garantindo uma experiência de usuário moderna e responsiva (parte responsiva ainda em desenvolvimento)."
                 info="Para informações mais detalhadas do projeto, acesse o Github."
               />
               <ButtonWrapper>
                 <ProjectButton
                   title="Acesse"
                   target="_blank"
-                  href="https://design-responsivo-tailwind.vercel.app"
+                  href="https://tesla-bank-v1.vercel.app"
                   rel="noreferrer"
                 />
                 <ProjectButton
                   title="GitHub"
                   target="_blank"
-                  href="https://github.com/matheusscarvalho1/Design-Responsivo-Tailwind"
+                  href="https://github.com/matheusscarvalho1/teslaBank"
                   rel="noreferrer"
                 />
               </ButtonWrapper>
