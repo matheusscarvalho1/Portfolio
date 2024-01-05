@@ -20,6 +20,28 @@ const Projects = ({ id }) => {
           <ProjectsContent>
             <ProjectWrapper>
               <Project
+                image="../images/Project-Portfolio.png"
+                title="Projeto Site Portfólio"
+                description="💼 Projeto criado em React para servir de portfólio mostrando minha história, minhas Hard Skills como programador, minhas Soft Skills como colega de trabalho, minhas experiências como desenvolvedor utilizando as habilidades citadas no projeto e contato caso queira entrar em contato comigo."
+                info="Para informações mais detalhadas do projeto, acesse o Github."
+              />
+              <ButtonWrapper>
+                <ProjectButton
+                  title="Acesse"
+                  target="_blank"
+                  href="https://portfolio-matheusscarvalho.vercel.app"
+                  rel="noreferrer"
+                />
+                <ProjectButton
+                  title="GitHub"
+                  target="_blank"
+                  href="https://github.com/matheusscarvalho1/portfolio"
+                  rel="noreferrer"
+                />
+              </ButtonWrapper>
+            </ProjectWrapper>
+            <ProjectWrapper>
+              <Project
                 image="../images/Project-Barber-Shop.png"
                 title="Projeto Barber Shop"
                 description="💈✂️ Página Web responsiva desenvolvida em React.JS de
@@ -43,47 +65,46 @@ const Projects = ({ id }) => {
                 />
               </ButtonWrapper>
             </ProjectWrapper>
-
             <ProjectWrapper>
               <Project
-                image="../images/Project-Portfolio.png"
-                title="Projeto Site Portfólio"
-                description="💼 Projeto criado em React para servir de portfólio mostrando minha história, minhas Hard Skills como programador, minhas Soft Skills como colega de trabalho, minhas experiências como desenvolvedor utilizando as habilidades citadas no projeto e contato caso queira entrar em contato comigo."
+                image="../images/CRUD_ICON.png"
+                title="Projeto Simulador de CRUD"
+                description="📁 O projeto simula uma CRUD, então é possível criar, listar, editar e apagar dados de clientes, clientes esses que já estão 'cadastrados' préviamente através de uma API com informações como foto, nome e email, e também criado uma simulação de um sistema de login utilizado Context API para consumir dados globais do usuário logado."
                 info="Para informações mais detalhadas do projeto, acesse o Github."
               />
               <ButtonWrapper>
                 <ProjectButton
                   title="Acesse"
                   target="_blank"
-                  href="https://portfolio-matheusscarvalho.vercel.app"
+                  href="https://projeto-simulador-de-crud.vercel.app"
                   rel="noreferrer"
                 />
                 <ProjectButton
                   title="GitHub"
                   target="_blank"
-                  href="https://github.com/matheusscarvalho1/portfolio"
+                  href="https://github.com/matheusscarvalho1/Project-ReactRouter-MaterialUI-ContextAPI"
                   rel="noreferrer"
                 />
               </ButtonWrapper>
             </ProjectWrapper>
             <ProjectWrapper>
               <Project
-                image="../images/PROJECT-STEAM-ICON.png"
-                title="Projeto Steam Minimalista"
-                description="🎮 Criação de uma aplicação web utilizando React baseado na plataforma Steam que é uma um software de gestão de direitos digitais, plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos. (Projeto em manutenção - Logo será disponibilizado)."
+                image="../images/Project-Teslabank.svg"
+                title="Projeto Tesla Bank"
+                description="💸 O TeslaBank é um site empresarial desenvolvido para oferecer serviços bancários inovadores e centrados no cliente. O projeto foi construído utilizando as tecnologias React e Tailwind CSS, garantindo uma experiência de usuário moderna e responsiva (parte responsiva ainda em desenvolvimento)."
                 info="Para informações mais detalhadas do projeto, acesse o Github."
               />
               <ButtonWrapper>
                 <ProjectButton
                   title="Acesse"
                   target="_blank"
-                  href="#"
+                  href="https://tesla-bank-v1.vercel.app"
                   rel="noreferrer"
                 />
                 <ProjectButton
                   title="GitHub"
                   target="_blank"
-                  href="https://github.com/matheusscarvalho1/minimalist-steam-react.js-next.js"
+                  href="https://github.com/matheusscarvalho1/teslaBank"
                   rel="noreferrer"
                 />
               </ButtonWrapper>
@@ -134,46 +155,25 @@ const Projects = ({ id }) => {
                 />
               </ButtonWrapper>
             </ProjectWrapper>
+
             <ProjectWrapper>
               <Project
-                image="../images/CRUD_ICON.png"
-                title="Projeto Simulador de CRUD"
-                description="📁 O projeto simula uma CRUD, então é possível criar, listar, editar e apagar dados de clientes, clientes esses que já estão 'cadastrados' préviamente através de uma API com informações como foto, nome e email, e também criado uma simulação de um sistema de login utilizado Context API para consumir dados globais do usuário logado."
+                image="../images/PROJECT-STEAM-ICON.png"
+                title="Projeto Steam Minimalista"
+                description="🎮 Criação de uma aplicação web utilizando React baseado na plataforma Steam que é uma um software de gestão de direitos digitais, plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos. (Projeto em manutenção - Logo será disponibilizado)."
                 info="Para informações mais detalhadas do projeto, acesse o Github."
               />
               <ButtonWrapper>
                 <ProjectButton
                   title="Acesse"
                   target="_blank"
-                  href="https://projeto-simulador-de-crud.vercel.app"
+                  href="#"
                   rel="noreferrer"
                 />
                 <ProjectButton
                   title="GitHub"
                   target="_blank"
-                  href="https://github.com/matheusscarvalho1/Project-ReactRouter-MaterialUI-ContextAPI"
-                  rel="noreferrer"
-                />
-              </ButtonWrapper>
-            </ProjectWrapper>
-            <ProjectWrapper>
-              <Project
-                image="../images/LOADING.png"
-                title="Projeto Tesla Bank"
-                description="💸 O TeslaBank é um site empresarial desenvolvido para oferecer serviços bancários inovadores e centrados no cliente. O projeto foi construído utilizando as tecnologias React e Tailwind CSS, garantindo uma experiência de usuário moderna e responsiva (parte responsiva ainda em desenvolvimento)."
-                info="Para informações mais detalhadas do projeto, acesse o Github."
-              />
-              <ButtonWrapper>
-                <ProjectButton
-                  title="Acesse"
-                  target="_blank"
-                  href="https://tesla-bank-v1.vercel.app"
-                  rel="noreferrer"
-                />
-                <ProjectButton
-                  title="GitHub"
-                  target="_blank"
-                  href="https://github.com/matheusscarvalho1/teslaBank"
+                  href="https://github.com/matheusscarvalho1/minimalist-steam-react.js-next.js"
                   rel="noreferrer"
                 />
               </ButtonWrapper>
