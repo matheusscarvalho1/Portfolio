@@ -42,9 +42,19 @@ const Skills = ({ id }) => {
               description="Com minhas habilidades em jQuery, posso acelerar o desenvolvimento ao utilizar seus métodos simplificados para manipulação do DOM, tratamento de eventos e execução de chamadas AJAX."
             />
             <Skill
+              image="../images/TS_ICON.png"
+              title="TypeScript"
+              description="Com typeScript posso criar aplicações mais robustas e escaláveis, graças ao seu sistema de tipos estáticos, que proporciona um código mais legível, manutenível e menos propenso a erros."
+            />
+            <Skill
               image="../images/REACT_ICON.png"
               title="React.js"
               description="Minha experiência em React posso criar componentes reutilizáveis, gerenciar eficientemente o estado da aplicação e criar aplicações web escaláveis e de alto desempenho. (Possuo experiências em tópicos dentro da biblioteca utilizando: React Hooks e React Router)"
+            />
+            <Skill
+              image="../images/NEXT_ICON.png"
+              title="Next.js"
+              description="A partir do conhecimento em Next.js, posso criar aplicações web otimizadas para SEO, com carregamento rápido e renderização do lado do servidor, proporcionando uma experiência de usuário aprimorada."
             />
             <Skill
               image="../images/REACT_ICON.png"
@@ -71,6 +81,22 @@ const Skills = ({ id }) => {
               title="Material UI"
               description="Com conhecimentos em Material UI, posso criar interfaces atraentes e consistentes, utilizando componentes prontos para uso que seguem as melhores práticas de design baseados no Material Design."
             />
+             <Skill
+              image="../images/NODE_ICON.png"
+              title="Node"
+              description="O Node me fornece a capacidade de criar aplicações de back-end escaláveis e de alto desempenho, utilizando JavaScript no servidor e pondendo assim criar diversas APIs. (Possuo experiência em tópicos dentro da biblioteca utilizando: Express, Fastify e MongoDB)"
+            />
+             <Skill
+              image="../images/FASTIFYJS_ICON.svg"
+              title="Fastify"
+              description="Framework Node.js com grande uma grande comunidade que permite criar aplicações web rápidas e eficientes, com suporte a validação de esquemas, injeção de dependências e geração de documentação automática."
+            />
+             <Skill
+              image="../images/EXPRESSJS_ICON.png"
+              title="Express"
+              description="Outra opção de Framework Node.js que permite criar aplicações web robustas e escaláveis, com rotas, middlewares e integração com bancos de dados de forma eficiente."
+            />
+            
             <Skill
               image="../images/GIT_ICON.png"
               title="GIT"
