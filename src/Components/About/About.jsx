@@ -22,54 +22,53 @@ const About = () => {
             </InfoWrapper>
             <div>
               <p>
-                Desenvolvedor com 2 anos de experiência com conhecimento na
-                stack
-                <strong> Frontend</strong> na linguagem de programação
-                <strong> JavaScript</strong>, na biblioteca
-                <strong> React</strong>, na biblioteca de estilização de
-                componentes
-                <strong> Styled Components</strong> e também no framework de
-                estilização <strong> TailwindCSS</strong>, também possuo
-                conhecimento nas tecnologias <strong> HTML</strong>,{" "}
-                <strong> CSS</strong>,<strong> GIT</strong>,{" "}
-                <strong> GitHub</strong>, através dos cursos tenho noções e
-                experiências também envolvendo a stack Backend trabalhando com
-                <strong> Node.js</strong>,<strong> Express.js</strong> criando
-                <strong> APIs</strong> para acessar banco de dados utilizando
-                padrão de
-                <strong> arquitetura MVC</strong> para realizar as operações
-                básicas de criar, ler, atualizar e deletar informações do banco
-                de dados
-                <strong> (CRUD)</strong> utilizando{" "}
-                <strong>banco de dados SQL</strong> e <strong>noSQL</strong>.{" "}
-                Durante esse tempo de experiência, adquirida através de cursos,
-                construí projetos responsivos visando a usabilidade e
-                praticidade do usuário com o objetivo de sempre atender às
-                necessidades de maneira eficaz.
+                Sou desenvolvedor de software com mais de 3 anos de experiência
+                na construção de soluções web, atuando tanto no{" "}
+                <strong>Front End</strong> quanto no <strong>Back End</strong>.
+                Utilizo tecnologias como <strong>React.js</strong>,{" "}
+                <strong>Next.js</strong>, <strong>Node.js</strong>,{" "}
+                <strong>TypeScript</strong> e <strong>PostgreSQL</strong>, além
+                de ferramentas como <strong>Docker</strong>,{" "}
+                <strong>Git</strong> e <strong>GitHub</strong>. Minha abordagem
+                é focada em criar aplicações escaláveis, eficientes e centradas
+                na experiência do usuário.
               </p>
               <p>
-                Além da minha experiência como desenvolvedor, em 2021 trabalhei
-                como estagiário atuando em um time em que tinha uma equipe de
-                designers para criação de artes de eventos com transmissões
-                online, modelagem de cursos hospedados na plataforma MOODLE
-                através do <strong>ADOBE XD</strong>, outra equipe de suporte
-                técnico e outra responsável por organizar transmissões online
-                pelo youtube. Essa experiência foi de grande importância para
-                melhorar minhas <strong> Soft Skills</strong>, já que tive que
-                atuar um pouquinho em cada uma dessas áreas citadas, era
-                importante a equipe estar alinhada e para isso eram necessários
-                uma <strong>boa comunicação</strong>,{" "}
-                <strong>organização</strong>,
-                <strong> trabalho em equipe</strong>,{" "}
-                <strong>adaptabilidade</strong> e <strong>proatividade</strong>.
+                Atualmente, atuo como{" "}
+                <strong>Desenvolvedor Back End na Ginco Urbanismo</strong>, onde
+                sou responsável pelo desenvolvimento e manutenção de APIs
+                internas, integração entre sistemas (CRM, ERP) e integração de
+                serviços externos. Anteriormente, trabalhei como{" "}
+                <strong>Desenvolvedor Front End Freelancer na TAV WEB</strong>,
+                desenvolvendo interfaces robustas e interativas, garantindo
+                usabilidade e integração com sistemas internos. Também tive a
+                oportunidade de atuar como{" "}
+                <strong>
+                  Estagiário na Escola de Saúde Pública do Estado de Mato Grosso
+                </strong>
+                , onde participei da criação de cursos na plataforma MOODLE e da
+                organização de transmissões online.
               </p>
               <p>
-                Apesar das experiências já obtidas, atualmente sigo estudando
-                através dos cursos: <strong> React</strong>, e depois pretendo
-                direcionar meus estudos para <strong> TypeScript</strong> e{" "}
-                <strong> Next</strong>, para aprimorar cada vez mais meu
-                conhecimento comprometido com a qualidade e a satisfação do
-                usuário.
+                Sou formado em{" "}
+                <strong>
+                  Engenharia de Computação pela Universidade Federal de Mato
+                  Grosso
+                </strong>{" "}
+                (2017 - 2023) e concluí cursos relevantes como{" "}
+                <strong>Formação Full Stack JavaScript</strong>,{" "}
+                <strong>CodeStart</strong> e <strong>Formação Next</strong>.
+                Esses conhecimentos me permitem atuar de forma abrangente no
+                desenvolvimento de soluções web, desde a criação de interfaces
+                até a integração de sistemas complexos.
+              </p>
+              <p>
+                Atualmente, estou focado em aprimorar meus conhecimentos em{" "}
+                <strong>React</strong>, <strong>TypeScript</strong> e{" "}
+                <strong>Next.js</strong>, sempre buscando entregar soluções
+                inovadoras e de alta qualidade. Meu objetivo é continuar
+                evoluindo como profissional, contribuindo para projetos
+                desafiadores e impactantes.
               </p>
             </div>
           </AboutComponent>

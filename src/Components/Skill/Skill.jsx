@@ -4,7 +4,7 @@ const Skill = ({ image, title, description }) => {
   return (
     <SkillsContent>
       <SkillItem>
-        <img src={image} alt={title} />
+        {image && <img src={image} alt={title} />}
         <span>{title}</span>
         <p>{description}</p>
       </SkillItem>

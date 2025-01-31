@@ -19,7 +19,7 @@ const Skills = ({ id }) => {
             <Skill
               image="../images/CSS_ICON.png"
               title="CSS"
-              description=" Com expertise em CSS posso criar designs visualmente atraentes, controlar o layout da página e garantir uma experiência de usuário consistente em diferentes dispositivos. (Possuo experiência tanto utilizando flexbox e grid)"
+              description="Com expertise em CSS posso criar designs visualmente atraentes, controlar o layout da página e garantir uma experiência de usuário consistente em diferentes dispositivos. (Possuo experiência tanto utilizando flexbox e grid)."
             />
             <Skill
               image="../images/SASS_ICON.png"
@@ -44,12 +44,12 @@ const Skills = ({ id }) => {
             <Skill
               image="../images/TS_ICON.png"
               title="TypeScript"
-              description="Com typeScript posso criar aplicações mais robustas e escaláveis, graças ao seu sistema de tipos estáticos, que proporciona um código mais legível, manutenível e menos propenso a erros."
+              description="Com TypeScript posso criar aplicações mais robustas e escaláveis, graças ao seu sistema de tipos estáticos, que proporciona um código mais legível, manutenível e menos propenso a erros."
             />
             <Skill
               image="../images/REACT_ICON.png"
               title="React.js"
-              description="Minha experiência em React posso criar componentes reutilizáveis, gerenciar eficientemente o estado da aplicação e criar aplicações web escaláveis e de alto desempenho. (Possuo experiências em tópicos dentro da biblioteca utilizando: React Hooks e React Router)"
+              description="Minha experiência em React permite criar componentes reutilizáveis, gerenciar eficientemente o estado da aplicação e criar aplicações web escaláveis e de alto desempenho. (Possuo experiências em tópicos dentro da biblioteca utilizando: React Hooks e React Router)."
             />
             <Skill
               image="../images/NEXT_ICON.png"
@@ -59,7 +59,7 @@ const Skills = ({ id }) => {
             <Skill
               image="../images/REACT_ICON.png"
               title="React - Context API"
-              description="Posso criar aplicações mais organizadas e escaláveis, compartilhando dados entre componentes como uma Global State (Estado global) graças ao Context API, de maneira eficiente."
+              description="Posso criar aplicações mais organizadas e escaláveis, compartilhando dados entre componentes como um estado global (Global State) de maneira eficiente, graças ao Context API."
             />
             <Skill
               image="../images/REDUX_ICON.png"
@@ -81,22 +81,35 @@ const Skills = ({ id }) => {
               title="Material UI"
               description="Com conhecimentos em Material UI, posso criar interfaces atraentes e consistentes, utilizando componentes prontos para uso que seguem as melhores práticas de design baseados no Material Design."
             />
-             <Skill
+            <Skill
+              title="Shadcn/ui"
+              description="Com shadcn/ui, posso criar interfaces modernas e acessíveis, utilizando componentes pré-construídos e altamente personalizáveis, otimizando o desenvolvimento de interfaces de usuário."
+            />
+            <Skill
               image="../images/NODE_ICON.png"
               title="Node"
-              description="O Node me fornece a capacidade de criar aplicações de back-end escaláveis e de alto desempenho, utilizando JavaScript no servidor e pondendo assim criar diversas APIs. (Possuo experiência em tópicos dentro da biblioteca utilizando: Express, Fastify e MongoDB)"
+              description="O Node me fornece a capacidade de criar aplicações de back-end escaláveis e de alto desempenho, utilizando JavaScript no servidor e podendo assim criar diversas APIs. (Possuo experiência em tópicos dentro da biblioteca utilizando: Express, Fastify e MongoDB)."
             />
-             <Skill
+            <Skill
               image="../images/FASTIFYJS_ICON.svg"
               title="Fastify"
-              description="Framework Node.js com grande uma grande comunidade que permite criar aplicações web rápidas e eficientes, com suporte a validação de esquemas, injeção de dependências e geração de documentação automática."
+              description="Framework Node.js com uma grande comunidade que permite criar aplicações web rápidas e eficientes, com suporte a validação de esquemas, injeção de dependências e geração de documentação automática."
             />
-             <Skill
+            <Skill
               image="../images/EXPRESSJS_ICON.png"
               title="Express"
               description="Outra opção de Framework Node.js que permite criar aplicações web robustas e escaláveis, com rotas, middlewares e integração com bancos de dados de forma eficiente."
             />
-            
+            <Skill
+              image="../images/PRISMA_ICON.png"
+              title="Prisma ORM"
+              description="Com Prisma ORM, posso gerenciar bancos de dados de forma eficiente, utilizando uma camada de abstração que simplifica a interação com o banco de dados."
+            />
+            <Skill
+              image="../images/DOCKER_ICON.png"
+              title="Docker"
+              description="Com Docker, posso criar, implantar e gerenciar aplicações em contêineres, garantindo consistência entre ambientes de desenvolvimento e produção, além de facilitar a escalabilidade e o isolamento de dependências."
+            />
             <Skill
               image="../images/GIT_ICON.png"
               title="GIT"
@@ -110,7 +123,7 @@ const Skills = ({ id }) => {
             <Skill
               image="../images/SCRUM_ICON.png"
               title="SCRUM"
-              description="Possuo experiência teórica em scrum,  sei que através dele é possível liderar equipes de desenvolvimento, planejar sprints, e garantir a entrega eficiente de projetos, priorizando a adaptabilidade e a transparência."
+              description="Possuo experiência teórica em Scrum, sei que através dele é possível liderar equipes de desenvolvimento, planejar sprints e garantir a entrega eficiente de projetos, priorizando a adaptabilidade e a transparência."
             />
           </SkillsComponent>
         </Content>
