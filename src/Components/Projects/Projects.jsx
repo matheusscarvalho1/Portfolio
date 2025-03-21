@@ -20,6 +20,38 @@ const Projects = ({ id }) => {
           <ProjectsContent>
             <ProjectWrapper>
               <Project
+                image="../images/MC_LOGO.png"
+                title="FSW Donalds"
+                description="🍔 Token de atendimento de uma rede de restaurantes completa, com o seeds armazenando dados de lanches, restaurantes e renderização desses dados em telas interativas ao cliente."
+                info="Para informações mais detalhadas do projeto, acesse o Github."
+              />
+              <ButtonWrapper>
+                <ProjectButton
+                  title="GitHub"
+                  target="_blank"
+                  href="https://github.com/matheusscarvalho1/fsw-donalds"
+                  rel="noreferrer"
+                />
+              </ButtonWrapper>
+            </ProjectWrapper>
+            <ProjectWrapper>
+              <Project
+                image="../images/API_LOGO.png"
+                title="APIs JWT Token"
+                description="🔒APIs protegidas por autenticação JWT utilizando rotas dinâmicas do nextjs."
+                info="Para informações mais detalhadas do projeto, acesse o Github."
+              />
+              <ButtonWrapper>
+                <ProjectButton
+                  title="GitHub"
+                  target="_blank"
+                  href="https://github.com/matheusscarvalho1/api-auth-jwt"
+                  rel="noreferrer"
+                />
+              </ButtonWrapper>
+            </ProjectWrapper>
+            <ProjectWrapper>
+              <Project
                 image="../images/Project-Portfolio.png"
                 title="Projeto Site Portfólio"
                 description="💼 Projeto criado em React para servir de portfólio mostrando minha história, minhas Hard Skills como programador, minhas Soft Skills como colega de trabalho, minhas experiências como desenvolvedor utilizando as habilidades citadas no projeto e contato caso queira entrar em contato comigo."
