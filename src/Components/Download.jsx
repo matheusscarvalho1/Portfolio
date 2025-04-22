@@ -1,6 +1,7 @@
 export const handleDownload = () => {
   const downloadLink = document.createElement("a");
-  downloadLink.href = process.env.PUBLIC_URL + "/Matheus-Carvalho-CV.pdf";
-  downloadLink.download = "Matheus-Carvalho-CV.pdf";
+  downloadLink.href =
+    process.env.PUBLIC_URL + "/CV-MatheusCarvalho-DesenvolvedorFullStack.pdf";
+  downloadLink.download = "CV-MatheusCarvalho-DesenvolvedorFullStack.pdf";
   downloadLink.click();
 };
