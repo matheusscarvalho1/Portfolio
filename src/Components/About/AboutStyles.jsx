@@ -2,15 +2,14 @@ import styled from "styled-components";
 
 export const AboutComponent = styled.div`
   display: flex;
-  align-items: center;
+  flex-direction: column;
   margin-top: 50px;
 
   img {
     width: 300px;
     height: 300px;
     border-radius: 50%;
-    margin-right: 50px;
-    margin-left: 50px;
+    margin: 0 50px;
   }
 
   div {
@@ -21,10 +20,17 @@ export const AboutComponent = styled.div`
   }
 
   p {
-    color: white;
+    color: #ffffff;
     line-height: 2rem;
-    margin-bottom: 40px;
-    padding: 0.025px;
+    margin-bottom: 24px;
+    padding: 0;
+  }
+
+  ul {
+    list-style: disc inside;
+    margin-bottom: 24px;
+    padding-left: 1.5rem;
+    color: #ffffff;
   }
 
   @media (max-width: 1024px) {
@@ -33,12 +39,16 @@ export const AboutComponent = styled.div`
     img {
       width: 200px;
       height: 200px;
-      margin-right: 50px;
+      margin: 0 auto 20px;
     }
 
     p {
       font-size: 0.875rem;
       margin-top: 15px;
+    }
+
+    ul {
+      padding-left: 1rem;
     }
   }
 `;
@@ -50,16 +60,16 @@ export const InfoWrapper = styled.div`
 
 export const Button = styled.button`
   border: none;
-  padding: 20px;
-  border-radius: 10px;
-  background-color: black;
-  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  background-color: #000000;
+  color: #ffffff;
   text-transform: uppercase;
   font-weight: 600;
-  margin-top: 40px;
+  margin-top: 24px;
 
   &:hover {
     cursor: pointer;
-    background-color: #202020;
+    background-color: #333333;
   }
 `;

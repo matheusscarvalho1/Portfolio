@@ -12,6 +12,10 @@ const GlobalStyles = createGlobalStyle`
     
   }
 
+  body {
+    color: #ffffff;
+  }
+
   
 `;
 
