@@ -105,9 +105,9 @@ const About = () => {
               </p>
               <p>
                 <strong>
-                  Como freelancer: Atuei como Desenvolvedor Front-end
+                  Como freelancer: Atuei como Desenvolvedor Front-end na TAVWEB{" "}
                 </strong>{" "}
-                na TAVWEB - colaborei em projeto de uma plataforma voltada ao
+                - colaborei em projeto de uma plataforma voltada ao
                 gerenciamento e encaminhamento de documentos entre setores da
                 empresa. O projeto posteriormente utilizou inteligência
                 artificial para leitura, filtragem e extração de dados
