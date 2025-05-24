@@ -28,8 +28,22 @@ const Projects = ({ id }) => {
               <ButtonWrapper>
                 <ProjectButton
                   title="GitHub"
-                  target="_blank"
                   href="https://github.com/matheusscarvalho1/fsw-donalds"
+                  rel="noreferrer"
+                />
+              </ButtonWrapper>
+            </ProjectWrapper>
+            <ProjectWrapper>
+              <Project
+                image="..\images\forest.svg"
+                title="Projeto de monitoramento florestal"
+                description="🌳 Uma aplicação web que reúne dados geográficos e operacionais de equipamentos em operações florestais, proporcionando a gestores e equipes de campo uma visão unificada e atualizada dos ativos."
+                info="Para informações mais detalhadas do projeto, acesse o Github."
+              />
+              <ButtonWrapper>
+                <ProjectButton
+                  title="GitHub"
+                  href="https://github.com/matheusscarvalho1/monitoramento-florestal"
                   rel="noreferrer"
                 />
               </ButtonWrapper>
@@ -44,7 +58,6 @@ const Projects = ({ id }) => {
               <ButtonWrapper>
                 <ProjectButton
                   title="GitHub"
-                  target="_blank"
                   href="https://github.com/matheusscarvalho1/api-auth-jwt"
                   rel="noreferrer"
                 />
@@ -60,13 +73,11 @@ const Projects = ({ id }) => {
               <ButtonWrapper>
                 <ProjectButton
                   title="Acesse"
-                  target="_blank"
                   href="https://portfolio-matheusscarvalho.vercel.app"
                   rel="noreferrer"
                 />
                 <ProjectButton
                   title="GitHub"
-                  target="_blank"
                   href="https://github.com/matheusscarvalho1/portfolio"
                   rel="noreferrer"
                 />
@@ -85,13 +96,11 @@ const Projects = ({ id }) => {
               <ButtonWrapper>
                 <ProjectButton
                   title="Acesse"
-                  target="_blank"
                   href="https://barber-shop-projeto.vercel.app"
                   rel="noreferrer"
                 />
                 <ProjectButton
                   title="GitHub"
-                  target="_blank"
                   href="https://github.com/matheusscarvalho1/Projeto-Barber-Shop"
                   rel="noreferrer"
                 />
@@ -107,13 +116,11 @@ const Projects = ({ id }) => {
               <ButtonWrapper>
                 <ProjectButton
                   title="Acesse"
-                  target="_blank"
                   href="https://projeto-simulador-de-crud.vercel.app"
                   rel="noreferrer"
                 />
                 <ProjectButton
                   title="GitHub"
-                  target="_blank"
                   href="https://github.com/matheusscarvalho1/Project-ReactRouter-MaterialUI-ContextAPI"
                   rel="noreferrer"
                 />
@@ -129,13 +136,11 @@ const Projects = ({ id }) => {
               <ButtonWrapper>
                 <ProjectButton
                   title="Acesse"
-                  target="_blank"
                   href="https://tesla-bank-v1.vercel.app"
                   rel="noreferrer"
                 />
                 <ProjectButton
                   title="GitHub"
-                  target="_blank"
                   href="https://github.com/matheusscarvalho1/teslaBank"
                   rel="noreferrer"
                 />
@@ -152,13 +157,11 @@ const Projects = ({ id }) => {
               <ButtonWrapper>
                 <ProjectButton
                   title="Acesse"
-                  target="_blank"
                   href="https://projeto-clima-hoje.vercel.app/"
                   rel="noreferrer"
                 />
                 <ProjectButton
                   title="GitHub"
-                  target="_blank"
                   href="https://github.com/matheusscarvalho1/app-previsao-do-tempo"
                   rel="noreferrer"
                 />
@@ -175,37 +178,12 @@ const Projects = ({ id }) => {
               <ButtonWrapper>
                 <ProjectButton
                   title="Acesse"
-                  target="_blank"
                   href="https://redux-to-do-list-lilac.vercel.app"
                   rel="noreferrer"
                 />
                 <ProjectButton
                   title="GitHub"
-                  target="_blank"
                   href="https://github.com/matheusscarvalho1/todo-list-redux"
-                  rel="noreferrer"
-                />
-              </ButtonWrapper>
-            </ProjectWrapper>
-
-            <ProjectWrapper>
-              <Project
-                image="../images/PROJECT-STEAM-ICON.png"
-                title="Projeto Steam Minimalista"
-                description="🎮 Criação de uma aplicação web utilizando React baseado na plataforma Steam que é uma um software de gestão de direitos digitais, plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos. (Projeto em manutenção - Logo será disponibilizado)."
-                info="Para informações mais detalhadas do projeto, acesse o Github."
-              />
-              <ButtonWrapper>
-                <ProjectButton
-                  title="Acesse"
-                  target="_blank"
-                  href="#"
-                  rel="noreferrer"
-                />
-                <ProjectButton
-                  title="GitHub"
-                  target="_blank"
-                  href="https://github.com/matheusscarvalho1/minimalist-steam-react.js-next.js"
                   rel="noreferrer"
                 />
               </ButtonWrapper>
