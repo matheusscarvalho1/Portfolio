@@ -20,12 +20,37 @@ const Projects = ({ id }) => {
           <ProjectsContent>
             <ProjectWrapper>
               <Project
+                image="../images/SHOPPING_ICON.png"
+                title="BEWEAR E-commerce"
+                description="🛒 Plataforma full-stack de e-commerce desenvolvida com Next.js 15, React 19 e TypeScript. Sistema completo com autenticação via Better Auth, pagamentos Stripe, carrinho persistente, catálogo com variantes e histórico de pedidos. Implementação mobile-first com arquitetura moderna de Server Components e Server Actions."
+                info="Para informações mais detalhadas do projeto, acesse o Github."
+              />
+              <ButtonWrapper>
+                <ProjectButton
+                  title="Acesse"
+                  href="https://bewear-ecommerce-khaki.vercel.app/"
+                  rel="noreferrer"
+                />
+                <ProjectButton
+                  title="GitHub"
+                  href="https://github.com/matheusscarvalho1/fsw-donalds"
+                  rel="noreferrer"
+                />
+              </ButtonWrapper>
+            </ProjectWrapper>
+            <ProjectWrapper>
+              <Project
                 image="../images/MC_LOGO.png"
                 title="FSW Donalds"
                 description="🍔 Token de atendimento de uma rede de restaurantes completa, com o seeds armazenando dados de lanches, restaurantes e renderização desses dados em telas interativas ao cliente."
                 info="Para informações mais detalhadas do projeto, acesse o Github."
               />
               <ButtonWrapper>
+                <ProjectButton
+                  title="Acesse"
+                  href="https://fsw-donalds-red.vercel.app/"
+                  rel="noreferrer"
+                />
                 <ProjectButton
                   title="GitHub"
                   href="https://github.com/matheusscarvalho1/fsw-donalds"
